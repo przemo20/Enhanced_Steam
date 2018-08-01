@@ -829,7 +829,7 @@ input[type=checkbox].es_dlc_selection:checked + label {
 	right: 2px;
 }
 .home_viewsettings_label {
-	text-transform: capitalize;
+	// text-transform: capitalize;
 }
 
 /***************************************
